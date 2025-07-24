@@ -5,7 +5,7 @@
 
 ![Guilherme Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guid0Dev&show_icons=true&theme=radical)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Guid0Dev}&theme={zenburn}&exclude={exclude}
+![Guilherme Souza's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Guid0Dev}&theme={zenburn}&exclude={exclude})
 
 ### Linguagens e tecnologias
 
