@@ -1,8 +1,6 @@
 
 ### Olá! eu sou Guilherme Souza ✌️
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guiferreirasouza)
-
 ![Guilherme Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guid0Dev&show_icons=true&theme=radical)
 
 
